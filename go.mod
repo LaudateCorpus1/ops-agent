@@ -13,5 +13,5 @@ require (
 	github.com/mitchellh/mapstructure v1.4.1
 	github.com/shirou/gopsutil v3.21.7+incompatible
 	github.com/tklauser/go-sysconf v0.3.6 // indirect
-	golang.org/x/sys v0.0.0-20210806184541-e5e7981a1069
+	golang.org/x/sys v0.1.0
 )
